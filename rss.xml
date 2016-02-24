@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Vincent Palma]]></title>
         <description><![CDATA[Vincent Palma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vincent-palma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 09:17:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 09:20:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vincent-palma/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68534fe9-64ad-448b-967d-6a727e83f2cf.jpg">]]></description>
-            <link>undefined8234c92b-bf6e-487b-ad14-685699ecce42/index.html</link>
+            <link>https://thegrid.ai/vincent-palma/8234c92b-bf6e-487b-ad14-685699ecce42/index.html</link>
             <guid isPermaLink="false">8234c92b-bf6e-487b-ad14-685699ecce42</guid>
-            <pubDate>Wed, 24 Feb 2016 09:17:31 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 09:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
